@@ -20,7 +20,7 @@ mvn test
 
 ## Resultado
 
-![Resultado do mvn test](docs/resultado-mvn-test.png)
+![Resultado do mvn test](image.png)
 
 ## Como os testes ficam isolados
 
