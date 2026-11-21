@@ -20,7 +20,7 @@ mvn test
 
 ## Resultado
 
-Cole aqui o print do `mvn test` mostrando que todos os 5 testes passaram.
+![Resultado do mvn test](docs/resultado-mvn-test.png)
 
 ## Como os testes ficam isolados
 
